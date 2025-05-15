@@ -1,8 +1,0 @@
-Django>=4.2
-djangorestframework
-djoser
-Pillow
-psycopg2-binary
-django-filter
-drf-spectacular
-gunicorn
